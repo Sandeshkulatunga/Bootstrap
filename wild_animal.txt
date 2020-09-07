@@ -1,0 +1,8 @@
+Animal species
+
+Invertebrates
+Fish
+Amphibians
+Reptiles
+Birds
+Mammals
