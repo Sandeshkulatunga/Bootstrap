@@ -1,6 +1,5 @@
 Animal species
 
-Invertebrates
 Fish
 Amphibians
 Reptiles
